@@ -1,0 +1,12 @@
+[submodule "codigos_de_ejemplo"]
+	path = codigos_de_ejemplo
+	url = https://github.com/taller-de-lenguajes-1-historico/codigos_de_ejemplo.git
+[submodule "tl1-tp1-2026-irinanicole"]
+	path = tl1-tp1-2026-irinanicole
+	url = https://github.com/TallerDeLenguajes1/tl1-tp1-2026-irinanicole.git
+[submodule "tl1-tp2-2026-irinanicole"]
+	path = tl1-tp2-2026-irinanicole
+	url = https://github.com/TallerDeLenguajes1/tl1-tp2-2026-irinanicole.git
+[submodule "tl1-tp3-2026-irinanicole"]
+	path = tl1-tp3-2026-irinanicole
+	url = https://github.com/TallerDeLenguajes1/tl1-tp3-2026-irinanicole.git
